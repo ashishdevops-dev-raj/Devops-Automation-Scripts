@@ -300,24 +300,3 @@ Example cron job:
 0 2 * * * /path/to/devops-scripts/backup/full-backup.sh /backups
 0 * * * * /path/to/devops-scripts/monitoring/cpu-alert.sh 80
 ```
-
-## 📄 License
-
-These scripts are provided as-is for educational and operational use.
-
-## 🤝 Contributing
-
-Improvements and additional scripts are welcome. Please test thoroughly before submitting.
-
----
-
-**Total Scripts: 70**
-- Linux: 10 scripts
-- Security: 10 scripts
-- Monitoring: 10 scripts
-- Backup: 10 scripts
-- Network: 10 scripts
-- Users: 10 scripts
-- Logs: 10 scripts
-
-**Last Updated**: $(date)
